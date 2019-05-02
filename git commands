@@ -9,4 +9,7 @@ git log ==> tells you that what are the variouss thing you commited.
 git log -p -<number of last commit you want to see> ==> show you the no of last commit you want to see.
 git diff ==> compare the your working tree with staging area.
 git diff --staged ==> compare your staging area with last commit.
+git commit -a -m "message" ==> direct commit and skipped staging area.
+git rm <file name> ==> delete the file from staging Area(commited file) and computer memory also.
+git rm cached <file name> ==> delete file from staging area but file is present in computer memory.
 
