@@ -1,2 +1,11 @@
+git init ==> initailize the new project into git// create git folder..
+git add <file name> ==> add file to the staging area
+git add -A ==> add all file to the staging area.
+git commit ==> take a snapshot of all file which are in the staging area.or commit all the file in the staging area.
+git commit -m <messege> ==> commit with messege.
 git checkout ==> recover old commited file.
 git checkout -f ==> recover all commited file.
+git log ==> tells you that what are the variouss thing you commited.
+git log -p -<number of last commit you want to see> ==> show you the no of last commit you want to see.
+
+
