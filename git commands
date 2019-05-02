@@ -7,5 +7,4 @@ git checkout ==> recover old commited file.
 git checkout -f ==> recover all commited file.
 git log ==> tells you that what are the variouss thing you commited.
 git log -p -<number of last commit you want to see> ==> show you the no of last commit you want to see.
-
-
+git diff ==> compare the your working tree with staging area.
