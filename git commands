@@ -1,0 +1,2 @@
+git checkout ==> recover old commited file.
+git checkout -f ==> recover all commited file.
