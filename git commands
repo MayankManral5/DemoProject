@@ -12,4 +12,5 @@ git diff --staged ==> compare your staging area with last commit.
 git commit -a -m "message" ==> direct commit and skipped staging area.
 git rm <file name> ==> delete the file from staging Area(commited file) and computer memory also.
 git rm --cached <file name> ==> delete file from staging area but file is present in computer memory.
+git status -s ==> give you the short status of working tree.
 
