@@ -17,3 +17,12 @@ git ignore ==> create a file .gitignore and write the file name which you want t
  if you write like /<fileName> then in current directory all file with same name will be ignored.
  if you write like *.<extention> then all the file with same extention will be ignored..
  if you write like <folderName>/ then it ignore the whole directory and file in it as well as.
+
+
+==> how to create branch....???
+     git branch <branchName> 
+
+git branch ==> this command show all branches.
+git chaeckout <branchname> ==> this command switch to another branch which barnch you mentioned.
+
+   
