@@ -25,4 +25,9 @@ git ignore ==> create a file .gitignore and write the file name which you want t
 git branch ==> this command show all branches.
 git chaeckout <branchname> ==> this command switch to another branch which barnch you mentioned.
 
+<<<<<<< HEAD
    
+=======
+git merge <branchName> ==> merge the branch which is mentioned into master branch.
+
+>>>>>>> feature1
