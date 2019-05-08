@@ -1,3 +1,18 @@
+======================================configration settings=====================================
+git config --global user.name "<userName>"
+git config --global user.email "<emailId>"
+ this is  the two flag which is set by user. there are other flag also...
+
+
+
+
+===============================connect your project with git repo==============================
+
+git remote add origin repoName ==> connect your project with  git repo.
+
+
+
+=======================================git commands===============================================
 git init ==> initailize the new project into git// create git folder..
 git add <file name> ==> add file to the staging area
 git add -A ==> add all file to the staging area.
