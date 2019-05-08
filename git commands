@@ -8,7 +8,10 @@ git config --global user.email "<emailId>"
 
 ===============================connect your project with git repo==============================
 
-git remote add origin repoName ==> connect your project with  git repo.
+git remote add origin repoName ==> connect your project with  git repo
+git push origin <branchName> ==> upload your project or file on github repo.
+git clone <repoName> ==> download the project to perticuler repo to your system.
+
 
 
 
